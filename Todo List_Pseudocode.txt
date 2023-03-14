@@ -1,0 +1,11 @@
+Program Todolist
+
+Start
+Show Dashboard
+Read Input Todolist
+Read Input Judul, Tanggal dan Waktu
+For Todolist edit == Judul, Tanggal dan Waktu;
+	If Edit  is Valid;
+	Show Todolist
+End
+Finish
